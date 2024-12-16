@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\aprg\bin\Debug\net8.0\aprg.exe
+C:\Users\admin\Desktop\aprg\bin\Debug\net8.0\aprg.dll
