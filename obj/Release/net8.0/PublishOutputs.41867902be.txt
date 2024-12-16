@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\aprg.exe
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\aprg.dll
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\aprg.deps.json
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\aprg.runtimeconfig.json
+C:\Users\admin\Desktop\aprg\obj\Release\net8.0\PubTmp\Out\aprg.pdb
